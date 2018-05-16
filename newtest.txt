@@ -1,1 +1,2 @@
-hi hello world
+hi hello world Pushing a change from your local machine to repository has nothing to do with git pull. 
+And yes, why not, you can definitely push changes to the code directly from your local machine to the repository using " git push origin master". Here "origin" is the repository which you have cloned into your local system. So if you want to get your change reflected to some other repository, you would need to set your "origin" accordingly. And master is the branch on repository to which you are making the change. So if you are making change to some other branch, then replace "master" with the name of that branch.
